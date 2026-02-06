@@ -47,6 +47,11 @@ Detects missing mandatory fields such as:
 - JUnit 5
 
 ---
+## Sample Test Files
+Sample FNOL documents for testing are available in:
+`src/test/resources/samples/`
+
+---
 
 ## API Endpoints
 
@@ -60,10 +65,7 @@ Consumes:
 - multipart/form-data
 - file (PDF/TXT)
 
-## Sample Test Files
-Sample FNOL documents for testing are available in:
-`src/test/resources/samples/`
-/
+
 
 Response JSON format:
 ```json
@@ -73,6 +75,10 @@ Response JSON format:
   "recommendedRoute": "",
   "reasoning": ""
 }
+
+
+
+
 
 
 
