@@ -68,3 +68,8 @@ Response JSON format:
   "recommendedRoute": "",
   "reasoning": ""
 }
+
+## Sample Test Files
+Sample FNOL documents for testing are available in:
+`src/test/resources/samples/`
+/
