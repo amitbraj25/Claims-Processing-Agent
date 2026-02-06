@@ -53,6 +53,11 @@ Sample FNOL documents for testing are available in:
 
 ---
 
+## Live Demo (Render)
+Swagger UI: https://claims-processing-agent.onrender.com/swagger-ui/index.html  
+Health Check: https://claims-processing-agent.onrender.com/api/claims/health
+---
+
 ## API Endpoints
 
 ### Health Check
