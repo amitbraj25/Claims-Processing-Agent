@@ -1,0 +1,47 @@
+{
+  "info": {
+    "name": "Claims Processing Agent",
+    "_postman_id": "8f3c7d11-1111-4d9d-9999-abc123456789",
+    "description": "Postman collection for FNOL Claims Processing Agent",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8082/api/claims/health",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "claims", "health"]
+        }
+      }
+    },
+    {
+      "name": "Process FNOL Document",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "src": ""
+            }
+          ]
+        },
+        "url": {
+          "raw": "http://localhost:8082/api/claims/process",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "claims", "process"]
+        }
+      }
+    }
+  ]
+}

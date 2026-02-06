@@ -1,0 +1,20 @@
+POLICY NUMBER: POL-555333
+POLICYHOLDER NAME: Sameer Khan
+EFFECTIVE DATES: 01/12/2025 - 01/12/2026
+
+DATE: 02/04/2026
+TIME: 06:20 PM
+LOCATION: Hyderabad, Telangana
+DESCRIPTION: Vehicle accident with injury reported. Passenger sustained leg injury.
+
+CLAIMANT: Sameer Khan
+CONTACT DETAILS: sameer@gmail.com, +91-6666666666
+THIRD PARTIES: Car driver unknown
+
+ASSET TYPE: Vehicle
+ASSET ID: TS09GH2211
+ESTIMATED DAMAGE: 45000
+
+CLAIM TYPE: injury
+ATTACHMENTS: hospital report, photos
+INITIAL ESTIMATE: 45000

@@ -1,0 +1,20 @@
+POLICY NUMBER: POL-772211
+POLICYHOLDER NAME: Neha Verma
+EFFECTIVE DATES: 11/11/2025 - 11/11/2026
+
+DATE: 02/03/2026
+TIME: 02:10 AM
+LOCATION: Indore, Madhya Pradesh
+DESCRIPTION: This claim seems inconsistent and may be staged. Possible fraud suspected.
+
+CLAIMANT: Neha Verma
+CONTACT DETAILS: neha@gmail.com, +91-7777777777
+THIRD PARTIES: Unknown vehicle fled.
+
+ASSET TYPE: Vehicle
+ASSET ID: MP09CD7788
+ESTIMATED DAMAGE: 18000
+
+CLAIM TYPE: vehicle
+ATTACHMENTS: photos
+INITIAL ESTIMATE: 18000

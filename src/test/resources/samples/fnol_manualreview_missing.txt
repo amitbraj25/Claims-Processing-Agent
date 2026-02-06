@@ -1,0 +1,16 @@
+POLICYHOLDER NAME: Rohan Sharma
+EFFECTIVE DATES: 05/01/2025 - 05/01/2026
+
+DATE: 02/02/2026
+TIME: 08:45 PM
+LOCATION: Pune, Maharashtra
+DESCRIPTION: Accident occurred due to sudden braking.
+
+CLAIMANT: Rohan Sharma
+CONTACT DETAILS: rohan@gmail.com, +91-8888888888
+
+ASSET TYPE: Vehicle
+ASSET ID: MH12XY4455
+
+CLAIM TYPE: vehicle
+ATTACHMENTS: photos
